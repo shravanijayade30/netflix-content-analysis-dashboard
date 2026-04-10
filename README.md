@@ -60,9 +60,7 @@ The dashboard provides a clear and interactive way to explore Netflix content tr
 ```
 Netflix-Content-Analysis/
 │── Netflix_Dashboard.pbix
-│── images/
-│     ├── dashboard1.png
-│     ├── dashboard2.png
-│     ├── dashboard3.png
+│── netflix.jpg
+│── netflix_titles(1).csv
 │── README.md
 ```
